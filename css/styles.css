@@ -16,7 +16,6 @@ body{
     .logo{
         color: #4d5ae5;
       font-family: "Raleway", sans-serif;
-      font-weight: 700;
       font-size: 18px;
       line-height: 1.17;
       letter-spacing: 0.03em;
@@ -47,7 +46,6 @@ body{
     .address-link{
         color: #434455;
       font-size: 16px;
-      font-weight: 400;
       line-height: 1.5;
       letter-spacing: 0.02em;
     }
@@ -65,7 +63,6 @@ body{
         color: #fff;
       text-align: center;
       font-size: 56px;
-      font-weight: 700;
       line-height: 1.07;
       letter-spacing: 0.02em;
     }
@@ -110,7 +107,6 @@ body{
         color: #2e2f42;
       text-align: center;
       font-size: 36px;
-      font-weight: 700;
       line-height: 1.11;
       letter-spacing: 0.02em;
       text-transform: capitalize;
@@ -127,7 +123,6 @@ body{
     .our-team-list-text{
         color: #434455;
         font-size: 16px;
-      font-weight: 400;
       line-height: 1.5;
       letter-spacing: 0.02em;
     }
@@ -140,7 +135,6 @@ body{
         color: #2e2f42;
       text-align: center;
       font-size: 36px;
-      font-weight: 700;
       line-height: 1.11;
       letter-spacing: 0.02em;
       text-transform: capitalize;
@@ -157,7 +151,6 @@ body{
     .portfolio-card-text{
         color:  #434455;
         font-size: 16px;
-      font-weight: 400;
       line-height: 1.5;
       letter-spacing: 0.02em;
     }
@@ -169,7 +162,6 @@ body{
       .footer-text {
         color: #f4f4fd;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
       }
@@ -177,7 +169,6 @@ body{
       .logo-footer {
         font-family: "Raleway", sans-serif;
         color:  #4d5ae5;
-        font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
